@@ -1,0 +1,15 @@
+{
+  "entryPagePath": "pages/index/index",
+  "pages": [
+    "pages/index/index"
+  ],
+  "subpackages": [],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
